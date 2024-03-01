@@ -80,7 +80,7 @@ nav ul li:hover a {
 }
 
 .hero img {
-  width: 100%;
+  max-width: 50vw;
   height: auto;
 }
 
